@@ -1,1 +1,3 @@
 # rock-paper-scissors
+
+This project demonstrates what we have coverd in the Andela Kickstart Program #week4. We started by understanding variables, which are used to store data values, and learned about different data types like numbers, strings, booleans,objects, and undefined. We explored operators such as arithmetic, comparison, logical, and assignment operators, which allow us to perform calculations and make comparisons. Finally, we delved into functions, reusable blocks of code that perform specific tasks. We saw how functions can take parameters and return values. This overview provides a foundation in JavaScript and sets the stage for further exploration and learning in this versatile programming language.
